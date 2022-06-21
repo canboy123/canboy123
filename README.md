@@ -61,6 +61,9 @@ This is a script to predict a ship engine's consumption (i.e. torque and fuel) f
 - Brick Assembly Network (BAN)
 
 ### Web Application
+#### [CanBoy - Expenses Management System](canboy)
+This is an expenses management system that is created for my own purpose. This system can record your own daily activity, daily expenses, debts, wallets and many more. It can also show the report with the graph.
+
 #### [Casareno - Sales System](/casareno)
 This is a web sales system which allows a user to insert a customer's information, set installation dates, view reports, make a floor plan, quotation, etc.
 
