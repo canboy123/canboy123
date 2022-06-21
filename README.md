@@ -20,6 +20,7 @@
   - Jinja2
   - Flask
 - R
+- Java
 - Etc.
 
 ## Databases
