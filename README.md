@@ -1,6 +1,6 @@
 ## Introduction
 - 👋 Hi, I’m Ho Jiacang.
-- 👀 I’m interested in AI and web application developement.
+- 👀 I’m interested in machine learning / deep learning / AI and web application developement.
 - 💪 I love to challenge new problems.
 - 📧 Contact me [here](ho_jiacang@hotmail.com).
 
@@ -28,12 +28,12 @@
 - MongoDB
 
 ## Frameworks
-- Web application
+- Web Application
   - CodeIgniter
   - PrestaShop
   - WordPress
   - Laravel
-- AI
+- Machine Learning / Deep Learning / AI
   - Tensorflow
   - Keras
 
