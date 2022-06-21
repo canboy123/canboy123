@@ -2,18 +2,37 @@
 - 👋 Hi, I’m Ho Jiacang.
 - 👀 I’m interested in AI and web application developement.
 - 💪 I love to challenge new problems.
-- 📧 Contact me [here](ho_jiacang@yahoo.com).
+- 📧 Contact me [here](ho_jiacang@hotmail.com).
 
 
 ## Programming Languages
-- PHP
+- Web programming
+  - PHP
+  - HTML
+  - CSS
+  - Javascript
+  - Ajax
+  - Jquery
+  - Python with Jinja2 + Flask
 - Python
-- HTML
-- CSS
-- Javascript
-- Ajax
-- Jquery
-- 
+  - Tensorflow
+  - Keras
+  - Jinja2
+  - Flask
+- R
+- Etc.
+
+## Databases
+- MYSQL
+- PostgreSQL
+- MongoDB
+
+## Speaking Languages
+- Mandarin
+- English
+- Cantonese
+- Malaysian Language
+- Korean (TOPIK Level 2 only)
 
 <!---
 canboy123/canboy123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
