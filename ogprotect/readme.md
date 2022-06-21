@@ -1,5 +1,5 @@
 ## Introduction
-This is a management system.
+This is a web based management system.
 
 *Note that the source codes are not open for public.*
 
