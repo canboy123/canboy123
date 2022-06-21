@@ -28,10 +28,14 @@
 - MongoDB
 
 ## Frameworks
-- CodeIgniter
-- PrestaShop
-- WordPress
-- Laravel
+- Web application
+  - CodeIgniter
+  - PrestaShop
+  - WordPress
+  - Laravel
+- AI
+  - Tensorflow
+  - Keras
 
 ## Speaking Languages
 - Mandarin
@@ -41,11 +45,18 @@
 - Korean (TOPIK Level 2 only)
 
 ## Testimonial
-### [Casareno Sales System](/casareno)
-This is a web sales system which allows a user to insert a customer's information, set installation dates, view reports, make a floor plan, quotation, etc.
-
-### [Adversarial Rank System](/adversarial_rank_system)
+### AI Web based System
+#### [Adversarial Rank System](/adversarial_rank_system)
 This is a web application based adversarial ranking system which allows a user to upload an image and view the adversarial image after the image is being distorted with an attack technique. It is also used for showing the ranking between several of attack and defense techniques.
+
+#### [Ecomarine Port Code Prediction](/adversarial_rank_system)
+This is a text classification which predicts a port code from an input (i.e. destination name).
+
+### AI Project
+
+### Web Application
+#### [Casareno Sales System](/casareno)
+This is a web sales system which allows a user to insert a customer's information, set installation dates, view reports, make a floor plan, quotation, etc.
 
 ###
 
