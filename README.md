@@ -41,12 +41,12 @@
 - Korean (TOPIK Level 2 only)
 
 ## Testimonial
-### Sales System
-![Casareno Example 1](/casareno/casareno1.png)
-![Casareno Example 2](/casareno/casareno2.png)
-### Adversarial Rank System
-![Adversarial Rank System Example 1](/adversarial_rank_system/adversarial_system1.png)
-![Adversarial Rank System Example 1](/adversarial_rank_system/adversarial_system2.png)
+### [Casareno Sales System](/casareno)
+This is a web sales system which allows a user to insert a customer's information, set installation dates, view reports, make a floor plan, quotation, etc.
+
+### [Adversarial Rank System](/adversarial_rank_system)
+This is a web application based adversarial ranking system which allows a user to upload an image and view the adversarial image after the image is being distorted with an attack technique. It is also used for showing the ranking between several of attack and defense techniques.
+
 ###
 
 <!---
