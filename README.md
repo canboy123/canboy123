@@ -45,14 +45,20 @@
 - Korean (TOPIK Level 2 only)
 
 ## Testimonial
-### AI Web based System
+### ML/DL/AI Web based System
 #### [Adversarial Rank System](/adversarial_rank_system)
 This is a web application based adversarial ranking system which allows a user to upload an image and view the adversarial image after the image is being distorted with an attack technique. It is also used for showing the ranking between several of attack and defense techniques.
 
-#### [Ecomarine Port Code Prediction](/adversarial_rank_system)
+#### [Ecomarine Port Code Prediction](/ecomarine)
 This is a text classification which predicts a port code from an input (i.e. destination name).
 
-### AI Project
+#### [Ecomarine Engine Prediction](https://github.com/canboy123/ecomarine_engine_prediction)
+This is a script to predict a ship engine's consumption (i.e. torque and fuel) from the speed value of the ship.
+
+### ML/DL/AI Work
+- [Attack-less Adversarial Training (ALAT)](https://github.com/canboy123/alat)
+- [Universal Image (Uni-Image) Construction](https://github.com/canboy123/uip)
+- Brick Assembly Network (BAN)
 
 ### Web Application
 #### [Casareno Sales System](/casareno)
