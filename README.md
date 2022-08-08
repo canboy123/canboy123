@@ -42,7 +42,7 @@
 - English
 - Cantonese
 - Malaysian Language
-- Korean (TOPIK Level 2 only)
+- Korean (TOPIK I - Level 2)
 
 ## Testimonial
 ### ML/DL/AI Web based System
