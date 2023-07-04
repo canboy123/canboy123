@@ -59,6 +59,7 @@ This is a script to predict a ship engine's consumption (i.e. torque and fuel) f
 - [Attack-less Adversarial Training (ALAT)](https://github.com/canboy123/alat)
 - [Universal Image (Uni-Image) Construction](https://github.com/canboy123/uip)
 - Brick Assembly Network (BAN)
+- [GLNAS: Greedy Layer-wise Network Architecture Search for Low Cost and Fast Network Generation](https://github.com/canboy123/glnas)
 
 ### Web Application
 #### [CanBoy - Expenses Management System](canboy)
