@@ -36,6 +36,7 @@
 - Machine Learning / Deep Learning / AI
   - Tensorflow
   - Keras
+  - Pytorch
 
 ## Speaking Languages
 - Mandarin
@@ -54,6 +55,9 @@ This is a text classification which predicts a port code from an input (i.e. des
 
 #### [Ecomarine - Engine Prediction](https://github.com/canboy123/ecomarine_engine_prediction)
 This is a script to predict a ship engine's consumption (i.e. torque and fuel) from the speed value of the ship.
+
+#### [AutoML-Zero](https://github.com/canboy123/automl_zero)
+This is a web application based automated machine learning which allows a user to upload a dataset, and then train the dataset by searching the best network architecture for it and train the dataset for the classification task.
 
 ### ML/DL/AI Work
 - [Attack-less Adversarial Training (ALAT)](https://github.com/canboy123/alat)
