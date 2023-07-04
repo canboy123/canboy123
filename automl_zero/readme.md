@@ -1,6 +1,5 @@
 ## Introduction
-This is a web application based adversarial ranking system which allows a user to upload an image and view the adversarial image after the image is being distorted with an attack technique.
-It is also used for showing the ranking between several of attack and defense techniques.
+This is a web application based automated machine learning which allows a user to upload a dataset, and then train the dataset by searching the best network architecture for it and train the dataset for the classification task.
 
 *Note that the source codes are not open for public.*
 
