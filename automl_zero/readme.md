@@ -5,7 +5,7 @@ This is a web application based automated machine learning which allows a user t
 
 ## Example
 ![AutoML-Zero Example 1](/automl_zero/automl-zero_img1.png)
-![AutoML-Zero Example 2](/automl_zero/automl-zero img2.png)
-![AutoML-Zero Example 3](/automl_zero/automl-zero img3.png)
-![AutoML-Zero Example 4](/automl_zero/automl-zero img4.png)
+![AutoML-Zero Example 2](/automl_zero/automl-zero_img2.png)
+![AutoML-Zero Example 3](/automl_zero/automl-zero_img3.png)
+![AutoML-Zero Example 4](/automl_zero/automl-zero_img4.png)
 
