@@ -62,7 +62,7 @@ This is a web application based automated machine learning which allows a user t
 ### ML/DL/AI Work
 - [Attack-less Adversarial Training (ALAT)](https://github.com/canboy123/alat)
 - [Universal Image (Uni-Image) Construction](https://github.com/canboy123/uip)
-- Brick Assembly Network (BAN)
+- [Brick Assembly Network (BAN)](https://github.com/canboy123/ban)
 - [GLNAS: Greedy Layer-wise Network Architecture Search for Low Cost and Fast Network Generation](https://github.com/canboy123/glnas)
 
 ### Web Application
