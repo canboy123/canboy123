@@ -84,6 +84,10 @@ This is a web based management system from the government project.
 #### [Execsearch - Job Searching Application](/execsearch)
 This is a job searching web application.
 
+### Embedded System Related Work
+#### [Wimplebin](/wimplebin)
+This is a web application that control the wimplebin which is a recycle bin with several features.
+
 <!---
 canboy123/canboy123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
