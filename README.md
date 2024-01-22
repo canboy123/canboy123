@@ -85,7 +85,7 @@ This is a web based management system from the government project.
 This is a job searching web application.
 
 ### Embedded System Related Work
-#### [Wimplebin](/wimplebin)
+#### [Seoreu - WimpleBin](/wimplebin)
 This is a web application that control the wimplebin which is a recycle bin with several features.
 
 <!---
