@@ -69,6 +69,9 @@ This is a web application based automated machine learning which allows a user t
 #### [CanBoy - Expenses Management System](canboy)
 This is an expenses management system that is created for my own purpose. This system can record your own daily activity, daily expenses, debts, wallets and many more. It can also show the report with the graph.
 
+#### [Seoreu - Wimple Management System](/seoreu_cms)
+This is a web management system which allows a user to monitor, edit, upload, create a new ticket for the device he/she has purchased or rented.
+
 #### [Casareno - Sales System](/casareno)
 This is a web sales system which allows a user to insert a customer's information, set installation dates, view reports, make a floor plan, quotation, etc.
 
