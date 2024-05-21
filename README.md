@@ -18,6 +18,7 @@
   - Keras
   - Jinja2
   - Flask
+  - PyTorch
 - R
 - Java
 - Etc.
