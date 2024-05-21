@@ -48,16 +48,16 @@
 
 ## Portfolio
 ### ML/DL/AI Web based System
-#### [Adversarial Rank System](/adversarial_rank_system)
+#### [Dongseo University (동서대) - Adversarial Rank System](/adversarial_rank_system)
 This is a web application based adversarial ranking system which allows a user to upload an image and view the adversarial image after the image is being distorted with an attack technique. It is also used for showing the ranking between several of attack and defense techniques.
 
-#### [Ecomarine - Port Code Prediction](/ecomarine)
+#### [Ecomarine ((주)에코마린) - Port Code Prediction](/ecomarine)
 This is a text classification which predicts a port code from an input (i.e. destination name).
 
-#### [Ecomarine - Engine Prediction](https://github.com/canboy123/ecomarine_engine_prediction)
+#### [Ecomarine ((주)에코마린) - Engine Prediction](https://github.com/canboy123/ecomarine_engine_prediction)
 This is a script to predict a ship engine's consumption (i.e. torque and fuel) from the speed value of the ship.
 
-#### [AutoML-Zero](https://github.com/canboy123/automl_zero)
+#### [Dongseo University (동서대) - AutoML-Zero](https://github.com/canboy123/automl_zero)
 This is a web application based automated machine learning which allows a user to upload a dataset, and then train the dataset by searching the best network architecture for it and train the dataset for the classification task.
 
 ### ML/DL/AI Work
@@ -74,7 +74,7 @@ This is a web application based automated machine learning which allows a user t
 #### [CanBoy - Expenses Management System](canboy)
 This is an expenses management system that is created for my own purpose. This system can record your own daily activity, daily expenses, debts, wallets and many more. It can also show the report with the graph.
 
-#### [Seoreu - Wimple Management System](/seoreu_cms)
+#### [Seoreu ((주)서르) - Wimple Management System](/seoreu_cms)
 This is a web management system which allows a user to monitor, edit, upload, create a new ticket for the device he/she has purchased or rented.
 
 #### [Casareno - Sales System](/casareno)
@@ -93,7 +93,7 @@ This is a web based management system from the government project.
 This is a job searching web application.
 
 ### Embedded System Related Work
-#### [Seoreu - WimpleBin](/wimplebin)
+#### [Seoreu ((주)서르) - WimpleBin](/wimplebin)
 This is a web application that control the wimplebin which is a recycle bin with several features.
 
 <!---
