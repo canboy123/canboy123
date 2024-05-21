@@ -67,6 +67,7 @@ This is a web application based automated machine learning which allows a user t
 - [Brick Assembly Network (BAN)](https://github.com/canboy123/ban)
   - Ho, Jiacang, and Dae-Ki Kang. "Brick Assembly Networks: An Effective Network for Incremental Learning Problems." Electronics 9.11 (2020): 1929. [[Paper](https://www.mdpi.com/2079-9292/9/11/1929)]
 - [GLNAS: Greedy Layer-wise Network Architecture Search for Low Cost and Fast Network Generation](https://github.com/canboy123/glnas)
+  - In press
 
 ### Web Application
 #### [CanBoy - Expenses Management System](canboy)
