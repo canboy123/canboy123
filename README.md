@@ -61,11 +61,11 @@ This is a web application based automated machine learning which allows a user t
 
 ### ML/DL/AI Work
 - [Attack-less Adversarial Training (ALAT)](https://github.com/canboy123/alat)
-  - Ho, Jiacang, Byung-Gook Lee, and Dae-Ki Kang. "Attack-less adversarial training for a robust adversarial defense." Applied Intelligence 52.4 (2022): 4364-4381.[paper](https://link.springer.com/article/10.1007/s10489-021-02523-y)
+  - Ho, Jiacang, Byung-Gook Lee, and Dae-Ki Kang. "Attack-less adversarial training for a robust adversarial defense." Applied Intelligence 52.4 (2022): 4364-4381. [[Paper](https://link.springer.com/article/10.1007/s10489-021-02523-y)]
 - [Universal Image (Uni-Image) Construction](https://github.com/canboy123/uip)
-  - Ho, Jiacang, Byung-Gook Lee, and Dae-Ki Kang. "Uni-image: universal image construction for robust neural model." Neural Networks 128 (2020): 279-287.[paper](https://www.sciencedirect.com/science/article/abs/pii/S089360802030188X)
+  - Ho, Jiacang, Byung-Gook Lee, and Dae-Ki Kang. "Uni-image: universal image construction for robust neural model." Neural Networks 128 (2020): 279-287. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S089360802030188X)]
 - [Brick Assembly Network (BAN)](https://github.com/canboy123/ban)
-  - Ho, Jiacang, and Dae-Ki Kang. "Brick Assembly Networks: An Effective Network for Incremental Learning Problems." Electronics 9.11 (2020): 1929.[paper](https://www.mdpi.com/2079-9292/9/11/1929)
+  - Ho, Jiacang, and Dae-Ki Kang. "Brick Assembly Networks: An Effective Network for Incremental Learning Problems." Electronics 9.11 (2020): 1929. [[Paper](https://www.mdpi.com/2079-9292/9/11/1929)]
 - [GLNAS: Greedy Layer-wise Network Architecture Search for Low Cost and Fast Network Generation](https://github.com/canboy123/glnas)
 
 ### Web Application
