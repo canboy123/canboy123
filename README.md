@@ -61,6 +61,7 @@ This is a web application based automated machine learning which allows a user t
 
 ### ML/DL/AI Work
 - [Attack-less Adversarial Training (ALAT)](https://github.com/canboy123/alat)
+  - [Ho, Jiacang, Byung-Gook Lee, and Dae-Ki Kang. "Attack-less adversarial training for a robust adversarial defense." Applied Intelligence 52.4 (2022): 4364-4381.](https://link.springer.com/article/10.1007/s10489-021-02523-y)
 - [Universal Image (Uni-Image) Construction](https://github.com/canboy123/uip)
 - [Brick Assembly Network (BAN)](https://github.com/canboy123/ban)
 - [GLNAS: Greedy Layer-wise Network Architecture Search for Low Cost and Fast Network Generation](https://github.com/canboy123/glnas)
