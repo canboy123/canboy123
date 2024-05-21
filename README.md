@@ -77,19 +77,19 @@ This is an expenses management system that is created for my own purpose. This s
 #### [Wimple Management System](/seoreu_cms), Seoreu Co., Ltd. (주)서르
 This is a web management system which allows a user to monitor, edit, upload, create a new ticket for the device he/she has purchased or rented.
 
-#### [Casareno - Sales System](/casareno)
+#### [Casareno - Sales System](/casareno), Matrix Centric Solutions
 This is a web sales system which allows a user to insert a customer's information, set installation dates, view reports, make a floor plan, quotation, etc.
 
-#### [WordPress - Library Modification](/sesb)
+#### [WordPress - Library Modification](/sesb), Matrix Centric Solutions
 This is a modification of booknetic library used in WordPress.
 
-#### [OGProtect - Management System](/ogprotect)
+#### [OGProtect - Management System](/ogprotect), Matrix Centric Solutions
 This is a web based management system.
 
-#### [Government Project - Management System](/government)
+#### [Government Project - Management System](/government), Matrix Centric Solutions
 This is a web based management system from the government project.
 
-#### [Execsearch - Job Searching Application](/execsearch)
+#### [Execsearch - Job Searching Application](/execsearch), Matrix Centric Solutions
 This is a job searching web application.
 
 ### Embedded System Related Work
