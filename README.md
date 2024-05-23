@@ -61,15 +61,27 @@ This is a script to predict a ship engine's consumption (i.e. torque and fuel) f
 This is a web application based automated machine learning which allows a user to upload a dataset, and then train the dataset by searching the best network architecture for it and train the dataset for the classification task.
 
 ### ML/DL/AI Work
-- [Attack-less Adversarial Training (ALAT)](https://github.com/canboy123/alat)
+<details>
+  <summary><a href="https://github.com/canboy123/alat">Attack-less Adversarial Training (ALAT)</a></summary>
+  
   - Ho, J., Lee, B. G., & Kang, D. K. (2022). Attack-less adversarial training for a robust adversarial defense. Applied Intelligence, 52(4), 4364-4381. [[Paper](https://link.springer.com/article/10.1007/s10489-021-02523-y)]
-- [Universal Image (Uni-Image) Construction](https://github.com/canboy123/uip)
+</details>
+<details>
+  <summary><a href="https://github.com/canboy123/uip">Universal Image (Uni-Image) Construction</a></summary>
+  
   - Ho, J., Lee, B. G., & Kang, D. K. (2020). Uni-image: universal image construction for robust neural model. Neural Networks, 128, 279-287. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S089360802030188X)]
-- [Brick Assembly Network (BAN)](https://github.com/canboy123/ban)
+</details>
+<details>
+  <summary><a href="https://github.com/canboy123/ban">Brick Assembly Network (BAN)</a></summary>
+    
   - Ho, J., & Kang, D. K. (2020). Brick Assembly Networks: An Effective Network for Incremental Learning Problems. Electronics, 9(11), 1929. [[Paper](https://www.mdpi.com/2079-9292/9/11/1929)]
-- [GLNAS: Greedy Layer-wise Network Architecture Search for Low Cost and Fast Network Generation](https://github.com/canboy123/glnas)
+</details>
+<details>
+  <summary><a href="https://github.com/canboy123/glnas">GLNAS: Greedy Layer-wise Network Architecture Search for Low Cost and Fast Network Generation</a></summary>
+  
   - In press
-
+</details>
+  
 ### Web Application
 #### [CanBoy - Expenses Management System](canboy)
 This is an expenses management system that is created for my own purpose. This system can record your own daily activity, daily expenses, debts, wallets and many more. It can also show the report with the graph.
