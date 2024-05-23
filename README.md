@@ -1,10 +1,10 @@
-## Introduction
+## 📑 Introduction
 - 👋 Hi, I’m Ho Jiacang.
 - 👀 I’m interested in machine learning / deep learning / AI and web application developement.
 - 💪 I love to challenge new problems.
 - 📧 Contact me [here](ho_jiacang@hotmail.com).
 
-## Programming Languages
+## 💻 Programming Languages
 - Web programming
   - PHP
   - HTML
@@ -23,12 +23,12 @@
 - Java
 - Etc.
 
-## Databases
+## 🖥️ Databases
 - MYSQL
 - PostgreSQL
 - MongoDB
 
-## Frameworks
+## 🖱️ Frameworks
 - Web Application
   - CodeIgniter
   - PrestaShop
@@ -39,14 +39,14 @@
   - Keras
   - Pytorch
 
-## Speaking Languages
+## 👅 Speaking Languages
 - Mandarin
 - English
 - Cantonese
 - Malaysian Language
 - Korean (TOPIK I - Level 2)
 
-## Portfolio
+## 🏆 Portfolio
 ### ML/DL/AI Web based System
 #### [Adversarial Rank System](/adversarial_rank_system), Dongseo University 동서대
 This is a web application based adversarial ranking system which allows a user to upload an image and view the adversarial image after the image is being distorted with an attack technique. It is also used for showing the ranking between several of attack and defense techniques.
@@ -96,7 +96,7 @@ This is a job searching web application.
 #### [WimpleBin](/wimplebin), Seoreu Co., Ltd. (주)서르
 This is a web application that control the wimplebin which is a recycle bin with several features.
 
-## Publication
+## 📚 Publication 
 - Ho, J., Lee, B. G., & Kang, D. K. (2022). Attack-less adversarial training for a robust adversarial defense. Applied Intelligence, 52(4), 4364-4381. [[Paper](https://link.springer.com/article/10.1007/s10489-021-02523-y)] (SCIE, IF: 5.3 (2022))
 - Ho, J., & Kang, D. K. (2020). Brick Assembly Networks: An Effective Network for Incremental Learning Problems. Electronics, 9(11), 1929. [[Paper](https://www.mdpi.com/2079-9292/9/11/1929)] (SCIE, IF: 2.9 (2022))
 - Ho, J., Lee, B. G., & Kang, D. K. (2020). Uni-image: universal image construction for robust neural model. Neural Networks, 128, 279-287. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S089360802030188X)] (SCIE, IF: 7.8 (2022))
