@@ -109,6 +109,7 @@ This is a job searching web application.
 This is a web application that control the wimplebin which is a recycle bin with several features.
 
 ## 📚 Publication 
+- Ho, J., Park, K., & Kang, D. K. (2024). GLNAS: Greedy Layer-wise Network Architecture Search for low cost and fast network generation. Pattern Recognition, 155, 110730. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324004813)] <sup>**(SCIE, IF: 7.5 (2024))**</sup>
 - Ho, J., Lee, B. G., & Kang, D. K. (2022). Attack-less adversarial training for a robust adversarial defense. Applied Intelligence, 52(4), 4364-4381. [[Paper](https://link.springer.com/article/10.1007/s10489-021-02523-y)] <sup>**(SCIE, IF: 5.3 (2022))**</sup>
 - Ho, J., & Kang, D. K. (2020). Brick Assembly Networks: An Effective Network for Incremental Learning Problems. Electronics, 9(11), 1929. [[Paper](https://www.mdpi.com/2079-9292/9/11/1929)] <sup>**(SCIE, IF: 2.9 (2022))**</sup>
 - Ho, J., Lee, B. G., & Kang, D. K. (2020). Uni-image: universal image construction for robust neural model. Neural Networks, 128, 279-287. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S089360802030188X)] <sup>**(SCIE, IF: 7.8 (2022))**</sup>
