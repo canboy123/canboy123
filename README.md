@@ -79,7 +79,7 @@ This is a web application based automated machine learning which allows a user t
 <details>
   <summary><a href="https://github.com/canboy123/glnas">GLNAS: Greedy Layer-wise Network Architecture Search for Low Cost and Fast Network Generation</a></summary>
   
-  - Ho, J., Park, K., & Kang, D. K. (2024). GLNAS: Greedy Layer-wise Network Architecture Search for low cost and fast network generation. Pattern Recognition, 155, 110730. [[Paper]([https://www.sciencedirect.com/science/article/abs/pii/S089360802030188X](https://www.sciencedirect.com/science/article/abs/pii/S0031320324004813))]
+  - Ho, J., Park, K., & Kang, D. K. (2024). GLNAS: Greedy Layer-wise Network Architecture Search for low cost and fast network generation. Pattern Recognition, 155, 110730. [[Paper]([https://www.sciencedirect.com/science/article/abs/pii/S089360802030188X])(https://www.sciencedirect.com/science/article/abs/pii/S0031320324004813))]
 </details>
   
 ### Web Application
