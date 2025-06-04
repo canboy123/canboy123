@@ -109,6 +109,7 @@ This is a job searching web application.
 This is a web application that control the wimplebin which is a recycle bin with several features.
 
 ## 📚 Publication 
+- Ho, J., Lee, J., & Kim, H. (2025). Wimplebin: an AI-based recycle bin for a better waste management. Journal of Material Cycles and Waste Management, 27(1), 584-596. [[Paper](https://link.springer.com/article/10.1007/s10163-024-02145-9)] <sup>**(SCIE, IF: 2.7 (2023))**</sup>
 - Ho, J., Park, K., & Kang, D. K. (2024). GLNAS: Greedy Layer-wise Network Architecture Search for low cost and fast network generation. Pattern Recognition, 155, 110730. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324004813)] <sup>**(SCIE, IF: 7.5 (2024))**</sup>
 - Ho, J., Lee, B. G., & Kang, D. K. (2022). Attack-less adversarial training for a robust adversarial defense. Applied Intelligence, 52(4), 4364-4381. [[Paper](https://link.springer.com/article/10.1007/s10489-021-02523-y)] <sup>**(SCIE, IF: 5.3 (2022))**</sup>
 - Ho, J., & Kang, D. K. (2020). Brick Assembly Networks: An Effective Network for Incremental Learning Problems. Electronics, 9(11), 1929. [[Paper](https://www.mdpi.com/2079-9292/9/11/1929)] <sup>**(SCIE, IF: 2.9 (2022))**</sup>
